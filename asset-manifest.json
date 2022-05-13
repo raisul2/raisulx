@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/raisulx/static/css/main.e0933e32.css",
+    "main.js": "/raisulx/static/js/main.f2865075.js",
+    "index.html": "/raisulx/index.html",
+    "main.e0933e32.css.map": "/raisulx/static/css/main.e0933e32.css.map",
+    "main.f2865075.js.map": "/raisulx/static/js/main.f2865075.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0933e32.css",
+    "static/js/main.f2865075.js"
+  ]
+}
